@@ -18,14 +18,13 @@ Data sample is 500 tweet that consist of "cipta kerja" word with Indonesian Lang
 <img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/8.PNG" alt="workflow1" width="880" height="490"/>
 <img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/9.PNG" alt="workflow2" width="880" height="490"/>
 <img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/10.PNG" alt="workflow3" width="880" height="490"/>
-
 <br />
 
 <h3 align="center">Important step</h3>
 - Open New Workspace
 <img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/1.PNG" alt="step1" width="880" height="490"/>
 - Download Add-ons
-<img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/3.PNG" alt="step2" width="880" height="490"/>
-- Textable & Text Mining
-<img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/4.PNG" alt="step3" width="380" height="490"/>
-<img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/5.PNG" alt="step3" width="380" height="490"/>
+<img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/3.PNG" alt="step2" width="880" height="500"/>
+- Input Textable & Text Mining Menu
+<img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/4.PNG" alt="step3" width="360" height="490"/>
+<img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/5.PNG" alt="step3" width="360" height="490"/>

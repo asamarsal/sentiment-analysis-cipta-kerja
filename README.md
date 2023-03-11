@@ -25,8 +25,7 @@ Data sample is 500 tweet that consist of "cipta kerja" word with Indonesian Lang
 - Download Add-ons
 <img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/3.PNG" alt="step2" width="880" height="500"/>
 - Input Textable & Text Mining Menu
-<img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/4.PNG" alt="step3" width="360" height="490"/>
-<img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/5.PNG" alt="step3" width="360" height="490"/>
+<img src="https://github.com/asamarsal/sentiment-analysis-cipta-kerja/blob/main/img/11.PNG" alt="step3" width="880" height="500"/>
 
 ### From the workflow we obtain table that consist of data from 500 tweet sample
 - Liu Hu Table
